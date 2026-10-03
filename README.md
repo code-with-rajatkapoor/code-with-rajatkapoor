@@ -12,7 +12,6 @@
 <p><a href="https://github.com/code-with-rajatkapoor">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/292988060?u=2379e0eda52c5dfdb8f4fe52e9b8d739e3a4a127&amp;v=4" width="180" alt="RAJAT KAPOOR GitHub avatar" />
 </td>
 </tr>
 </table>
@@ -28,7 +27,6 @@
 </tr>
 </table>
 
-<p><sub>A beginner started coding to become a expert one day</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -44,9 +42,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=code-with-rajatkapoor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292988060%3Fu%3D2379e0eda52c5dfdb8f4fe52e9b8d739e3a4a127%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=code-with-rajatkapoor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292988060%3Fu%3D2379e0eda52c5dfdb8f4fe52e9b8d739e3a4a127%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="RAJAT KAPOOR GitHub proof metrics" />
-</picture>
-</p>
+
 
 <h2>Selected work</h2>
 
