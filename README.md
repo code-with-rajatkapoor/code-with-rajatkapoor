@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · code-with-rajatkapoor</sub></p>
 <h1>RAJAT KAPOOR</h1>
 <h2>Frontend or full-stack engineer</h2>
-<p>A beginner started coding to become a expert one day</p>
+
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/code-with-rajatkapoor">GitHub</a></p>
